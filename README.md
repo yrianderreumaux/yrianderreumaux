@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, 
+
+My name is Yrian Derreumaux and I am behavior researcher and data scientist skilled in spearheading research projects, driving exploratory analysis, inferential statistics, and data visualizations. 
 
 <!--
 **yrianderreumaux/yrianderreumaux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
