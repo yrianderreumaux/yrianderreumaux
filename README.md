@@ -1,8 +1,10 @@
 ### Hi there, 
 
-I’m Yrian Derreumaux, a Senior Quantitative UX Researcher at Google. I have a PhD in Social Psychology from the University of California, Riverside, where I studied how people gather information, update their beliefs, and make decisions in various environments.
+I’m a Senior Quantitative UX Researcher at Google with expertise in mixed-methods research, data science, and psychology. My work bridges strategic and tactical UX research, using a wide range of quantitative and qualitative methods to inform product decisions and improve user experiences.
 
-I apply a mix of strategic and tactical UX research to tackle complex user challenges. My approach blends quantitative and qualitative methods to understand user needs more deeply.
+I hold a PhD in Social Psychology from the University of California, Riverside, where my research focused on how people gather information, update beliefs, and make decisions under uncertainty. At Google, I’ve worked across Chrome, Android, and developer tools, tackling challenges in privacy, safety, and security while bridging technical constraints with real-world user needs.
+
+I’m passionate about data-driven storytelling, designing rigorous research frameworks, and making complex systems more intuitive and user-friendly.
 
 ***Find me here..***
 
